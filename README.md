@@ -1,1 +1,2 @@
-# jjyliya.github.io
+Code made by Tiny
+Це тестова стрічночка для тренувань.
